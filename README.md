@@ -116,19 +116,3 @@ RandomForestRegressor, XGBRegressor, LGBMRegressor, CatBoostRegressor, HistGradi
 ### Leader Board
 - 1등
 ![image](https://github.com/devguno/Enefit/assets/130540234/07e3efc8-0a35-430e-ac78-a3add1b79990)
-
-
-
-### Presentation
-
-- _Insert your presentaion file(pdf) link_
-
-## etc
-
-### Meeting Log
-
-- _Insert your meeting log link like Notion or Google Docs_
-
-### Reference
-
-- _Insert related reference_
