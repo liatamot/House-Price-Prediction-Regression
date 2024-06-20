@@ -28,13 +28,7 @@
 
 - 평가지표 : RMSE(Root Mean Squared Error)
 
-## 2. Components
-
-### Directory
-
-- _Insert your directory structure_
-
-## 3. Data descrption
+## 2. Data descrption
 
 ### Dataset overview
 
@@ -98,7 +92,7 @@ sub_location,bus_location,star_location,세대별 주차대수
   - 2020년 이전의 데이터는 오히려 그 이후의 데이터를 해친다고 판단
   - 건축년도 변수 drop 거래년월도 다른 데이터와 merge및 이전 데이터 삭제활용으로만 사용
 
-## 4. Modeling
+## 3. Modeling
 
 ### Model descrition
 
@@ -111,8 +105,8 @@ RandomForestRegressor, XGBRegressor, LGBMRegressor, CatBoostRegressor, HistGradi
 - Optuna를 통한 파라미터 튜닝을 시도해보았으나 성능향상이 되지 않아 제출파일로 채택하지 않았음
 
 
-## 5. Result
+## 4. Result
 
 ### Leader Board
-- 1등
+- Private Score 28091.5216  →  Public Score 20935.9098
 ![image](https://github.com/devguno/Enefit/assets/130540234/07e3efc8-0a35-430e-ac78-a3add1b79990)
